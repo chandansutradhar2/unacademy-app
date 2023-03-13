@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-13T09:32:29.777Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="GkNKXSOzqsEXJS864p2M" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-13T09:35:38.248Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="imSH7LJm1U5V6Q0Dw0eQ" version="21.0.6" type="github">
   <diagram name="Page-1" id="ZtmYhF9qjIUgPPEs3o9M">
     <mxGraphModel dx="1035" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -73,8 +73,8 @@
         <mxCell id="iZIpDsO_VcZQwuWETnNI-23" value="CPU" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
           <mxGeometry x="1185" y="500" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iZIpDsO_VcZQwuWETnNI-24" value="instruction" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
-          <mxGeometry x="1185" y="570" width="60" height="30" as="geometry" />
+        <mxCell id="iZIpDsO_VcZQwuWETnNI-24" value="instrucution&lt;br&gt;(machine language)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="1186" y="570" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iZIpDsO_VcZQwuWETnNI-27" value="" style="endArrow=none;dashed=1;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iZIpDsO_VcZQwuWETnNI-22" target="iZIpDsO_VcZQwuWETnNI-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
