@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-14T10:06:21.633Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="xPvZuLS_IXrwHo5HLEC0" version="21.0.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-03-14T10:34:51.676Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Fi9Yh6qY9aEpw9qYf7fG" version="21.0.6" type="github" pages="3">
   <diagram name="Page-1" id="ZtmYhF9qjIUgPPEs3o9M">
     <mxGraphModel dx="978" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -228,6 +228,9 @@
         </mxCell>
         <mxCell id="CJw0ohH33zq9jMyEMQXY-7" value="readstudent.sh" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
           <mxGeometry x="140" y="100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CJw0ohH33zq9jMyEMQXY-8" value="if else condition&lt;br&gt;&lt;br&gt;if (condition) - if the condition for if is true the body of if statement is executed , if the condition is false, then the else condition is executed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="35" y="340" width="665" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
