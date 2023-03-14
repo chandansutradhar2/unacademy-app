@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-13T10:55:41.815Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="gfYABu1Dt3er0bJhhi_Q" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-14T05:53:53.176Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="yvdL4v5lrXkjXlVp0P0_" version="21.0.6" type="github" pages="2">
   <diagram name="Page-1" id="ZtmYhF9qjIUgPPEs3o9M">
     <mxGraphModel dx="978" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -169,8 +169,34 @@
         <mxCell id="iZIpDsO_VcZQwuWETnNI-57" value="File System mounted on / (root)" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="342.5" y="1360" width="145" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="iZIpDsO_VcZQwuWETnNI-59" value="linux command&amp;nbsp;&lt;br&gt;&lt;ol&gt;&lt;li&gt;view current path (pwd)&lt;/li&gt;&lt;li&gt;navigattion&lt;/li&gt;&lt;ol&gt;&lt;li&gt;to navigate inside folder (cd &amp;lt;folder_name&amp;gt;&lt;/li&gt;&lt;li&gt;to move back form the current folder (cd ..)&lt;/li&gt;&lt;li&gt;to move back to the root directory (cd /)&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;to list current directory content&lt;/li&gt;&lt;ol&gt;&lt;li&gt;ls - normal listing&lt;/li&gt;&lt;li&gt;ls -lrt - listing with detail&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;create a folder inside a specified path (eg /opt/chandan/demo)&lt;/li&gt;&lt;ol&gt;&lt;li&gt;navigate to the folder (cd /opt/chandan)&lt;/li&gt;&lt;li&gt;create a new folder (mkdir demo)&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;for sudo access type sudo &amp;lt;cmd&amp;gt; &amp;lt;option&amp;gt; (eg sudo mkdir demo)&lt;/li&gt;&lt;li&gt;to clear shell type (clear)&lt;/li&gt;&lt;li&gt;to view history of all command type (history)&lt;/li&gt;&lt;li&gt;to delete folder type rm &amp;lt;folder_name&amp;gt;&lt;/li&gt;&lt;li&gt;create file steps&lt;/li&gt;&lt;ol&gt;&lt;li&gt;vi &amp;lt;filename&amp;gt;&lt;/li&gt;&lt;li&gt;PRESS I to get into insert mode&lt;/li&gt;&lt;li&gt;type your text&lt;/li&gt;&lt;li&gt;press ESC-&amp;gt;SHIFT-&amp;gt;(COLON :)-&amp;gt;wq!&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;to view file content&lt;/li&gt;&lt;ol&gt;&lt;li&gt;cat &amp;lt;file_name&amp;gt;&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;align=left;" vertex="1" parent="1">
+        <mxCell id="iZIpDsO_VcZQwuWETnNI-59" value="linux command&amp;nbsp;&lt;br&gt;&lt;ol&gt;&lt;li&gt;view current path (pwd)&lt;/li&gt;&lt;li&gt;navigattion&lt;/li&gt;&lt;ol&gt;&lt;li&gt;to navigate inside folder (cd &amp;lt;folder_name&amp;gt;&lt;/li&gt;&lt;li&gt;to move back form the current folder (cd ..)&lt;/li&gt;&lt;li&gt;to move back to the root directory (cd /)&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;to list current directory content&lt;/li&gt;&lt;ol&gt;&lt;li&gt;ls - normal listing&lt;/li&gt;&lt;li&gt;ls -lrt - listing with detail&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;create a folder inside a specified path (eg /opt/chandan/demo)&lt;/li&gt;&lt;ol&gt;&lt;li&gt;navigate to the folder (cd /opt/chandan)&lt;/li&gt;&lt;li&gt;create a new folder (mkdir demo)&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;for sudo access type sudo &amp;lt;cmd&amp;gt; &amp;lt;option&amp;gt; (eg sudo mkdir demo)&lt;/li&gt;&lt;li&gt;to clear shell type (clear)&lt;/li&gt;&lt;li&gt;to view history of all command type (history)&lt;/li&gt;&lt;li&gt;to delete folder type rm &amp;lt;folder_name&amp;gt;&lt;/li&gt;&lt;li&gt;create file steps&lt;/li&gt;&lt;ol&gt;&lt;li&gt;vi &amp;lt;filename&amp;gt;&lt;/li&gt;&lt;li&gt;PRESS I to get into insert mode&lt;/li&gt;&lt;li&gt;type your text&lt;/li&gt;&lt;li&gt;press ESC-&amp;gt;SHIFT-&amp;gt;(COLON :)-&amp;gt;wq!&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;to view file content&lt;/li&gt;&lt;ol&gt;&lt;li&gt;cat &amp;lt;file_name&amp;gt;&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;to move file (mv &amp;lt;source&amp;gt; &amp;lt;destination&amp;gt;)&amp;nbsp;&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;align=left;" vertex="1" parent="1">
           <mxGeometry x="70" y="1510" width="880" height="660" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="MmaLtiXdOBIcyHiX4i4v" name="Page-2">
+    <mxGraphModel dx="880" dy="444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oUj_IQ00JeJFol4s1ra2-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="oUj_IQ00JeJFol4s1ra2-1" target="oUj_IQ00JeJFol4s1ra2-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oUj_IQ00JeJFol4s1ra2-1" value="sales" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="60" y="140" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oUj_IQ00JeJFol4s1ra2-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="oUj_IQ00JeJFol4s1ra2-2" target="oUj_IQ00JeJFol4s1ra2-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oUj_IQ00JeJFol4s1ra2-2" value="society onboarding data" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="190" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oUj_IQ00JeJFol4s1ra2-4" value="file (socetiy details+" style="whiteSpace=wrap;html=1;fontSize=20;fontFamily=Architects Daughter;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="390" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oUj_IQ00JeJFol4s1ra2-6" value="a1" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="670" y="30" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
