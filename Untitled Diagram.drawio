@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-15T06:10:58.198Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="agzfxQpcZDVJMiwArJuJ" version="21.0.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-03-15T09:00:18.906Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="6BJTCdrmWG9Th0MT4tBJ" version="21.0.6" type="github" pages="5">
   <diagram name="Page-1" id="ZtmYhF9qjIUgPPEs3o9M">
     <mxGraphModel dx="978" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -67,11 +67,17 @@
         <mxCell id="iZIpDsO_VcZQwuWETnNI-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="iZIpDsO_VcZQwuWETnNI-22" target="iZIpDsO_VcZQwuWETnNI-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="mFBOd33GaEQqfajgSVIT-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="iZIpDsO_VcZQwuWETnNI-22" target="mFBOd33GaEQqfajgSVIT-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iZIpDsO_VcZQwuWETnNI-22" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1155" y="485" width="120" height="135" as="geometry" />
         </mxCell>
         <mxCell id="iZIpDsO_VcZQwuWETnNI-23" value="CPU" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
           <mxGeometry x="1185" y="500" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mFBOd33GaEQqfajgSVIT-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="iZIpDsO_VcZQwuWETnNI-24" target="mFBOd33GaEQqfajgSVIT-32">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iZIpDsO_VcZQwuWETnNI-24" value="instrucution&lt;br&gt;(machine language)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
           <mxGeometry x="1186" y="570" width="60" height="30" as="geometry" />
@@ -171,6 +177,66 @@
         </mxCell>
         <mxCell id="iZIpDsO_VcZQwuWETnNI-59" value="linux command&amp;nbsp;&lt;br&gt;&lt;ol&gt;&lt;li&gt;view current path (pwd)&lt;/li&gt;&lt;li&gt;navigattion&lt;/li&gt;&lt;ol&gt;&lt;li&gt;to navigate inside folder (cd &amp;lt;folder_name&amp;gt;&lt;/li&gt;&lt;li&gt;to move back form the current folder (cd ..)&lt;/li&gt;&lt;li&gt;to move back to the root directory (cd /)&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;to list current directory content&lt;/li&gt;&lt;ol&gt;&lt;li&gt;ls - normal listing&lt;/li&gt;&lt;li&gt;ls -lrt - listing with detail&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;create a folder inside a specified path (eg /opt/chandan/demo)&lt;/li&gt;&lt;ol&gt;&lt;li&gt;navigate to the folder (cd /opt/chandan)&lt;/li&gt;&lt;li&gt;create a new folder (mkdir demo)&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;for sudo access type sudo &amp;lt;cmd&amp;gt; &amp;lt;option&amp;gt; (eg sudo mkdir demo)&lt;/li&gt;&lt;li&gt;to clear shell type (clear)&lt;/li&gt;&lt;li&gt;to view history of all command type (history)&lt;/li&gt;&lt;li&gt;to delete folder type rm &amp;lt;folder_name&amp;gt;&lt;/li&gt;&lt;li&gt;create file steps&lt;/li&gt;&lt;ol&gt;&lt;li&gt;vi &amp;lt;filename&amp;gt;&lt;/li&gt;&lt;li&gt;PRESS I to get into insert mode&lt;/li&gt;&lt;li&gt;type your text&lt;/li&gt;&lt;li&gt;press ESC-&amp;gt;SHIFT-&amp;gt;(COLON :)-&amp;gt;wq!&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;to view file content&lt;/li&gt;&lt;ol&gt;&lt;li&gt;cat &amp;lt;file_name&amp;gt;&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;to move file (mv &amp;lt;source&amp;gt; &amp;lt;destination&amp;gt;)&amp;nbsp;&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;align=left;" vertex="1" parent="1">
           <mxGeometry x="70" y="1510" width="880" height="660" as="geometry" />
+        </mxCell>
+        <mxCell id="mFBOd33GaEQqfajgSVIT-1" value="bash script" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="170" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mFBOd33GaEQqfajgSVIT-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="mFBOd33GaEQqfajgSVIT-22" target="mFBOd33GaEQqfajgSVIT-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mFBOd33GaEQqfajgSVIT-22" value="intel i5" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1494" y="485" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mFBOd33GaEQqfajgSVIT-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="mFBOd33GaEQqfajgSVIT-24" target="mFBOd33GaEQqfajgSVIT-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mFBOd33GaEQqfajgSVIT-24" value="radion" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1624" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mFBOd33GaEQqfajgSVIT-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="mFBOd33GaEQqfajgSVIT-26" target="mFBOd33GaEQqfajgSVIT-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mFBOd33GaEQqfajgSVIT-26" value="celeron" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1756" y="485" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mFBOd33GaEQqfajgSVIT-27" value="X86_64" style="whiteSpace=wrap;html=1;fontSize=20;fontFamily=Architects Daughter;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="1494" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mFBOd33GaEQqfajgSVIT-28" value="amd" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1624" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mFBOd33GaEQqfajgSVIT-29" value="x32" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1756" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mFBOd33GaEQqfajgSVIT-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="mFBOd33GaEQqfajgSVIT-31" target="mFBOd33GaEQqfajgSVIT-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mFBOd33GaEQqfajgSVIT-31" value="M1" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1364" y="485" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mFBOd33GaEQqfajgSVIT-32" value="ARM (RSIC)" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mFBOd33GaEQqfajgSVIT-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="mFBOd33GaEQqfajgSVIT-40" target="mFBOd33GaEQqfajgSVIT-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mFBOd33GaEQqfajgSVIT-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="mFBOd33GaEQqfajgSVIT-40" target="mFBOd33GaEQqfajgSVIT-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mFBOd33GaEQqfajgSVIT-40" value="Operating System (Kernal/Shell)" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="662" width="520" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mFBOd33GaEQqfajgSVIT-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="mFBOd33GaEQqfajgSVIT-42" target="mFBOd33GaEQqfajgSVIT-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mFBOd33GaEQqfajgSVIT-42" value="python language" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="760" width="520" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mFBOd33GaEQqfajgSVIT-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="mFBOd33GaEQqfajgSVIT-47" target="mFBOd33GaEQqfajgSVIT-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mFBOd33GaEQqfajgSVIT-47" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1605" y="880" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
