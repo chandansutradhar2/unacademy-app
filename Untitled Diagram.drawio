@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-15T05:53:37.349Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="adftZxKqSsVb89Jv4t9d" version="21.0.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-03-15T05:57:19.132Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="_1-U-J51vRYUMSGzQ1i6" version="21.0.6" type="github" pages="5">
   <diagram name="Page-1" id="ZtmYhF9qjIUgPPEs3o9M">
     <mxGraphModel dx="978" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -370,8 +370,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="RI6BIQPDjXHRvj0KCU86-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="RI6BIQPDjXHRvj0KCU86-1" target="RI6BIQPDjXHRvj0KCU86-3">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="RI6BIQPDjXHRvj0KCU86-4" value="GET /user/byId&lt;br&gt;GET /user/name&lt;br&gt;GET /user/lastActiveStatus/&lt;br&gt;GEt /user/currentsession&lt;br&gt;GET /user/accesstoken&lt;br&gt;POST /user/profile/update&lt;br&gt;POST /user/profile/update/avatar" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="RI6BIQPDjXHRvj0KCU86-1" target="RI6BIQPDjXHRvj0KCU86-3">
+          <mxGeometry x="-0.4" y="-69" relative="1" as="geometry">
+            <mxPoint x="-60" y="-34" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="RI6BIQPDjXHRvj0KCU86-1" value="mobile app" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="220" y="50" width="120" height="60" as="geometry" />
@@ -384,6 +386,9 @@
         </mxCell>
         <mxCell id="RI6BIQPDjXHRvj0KCU86-2" value="webapp" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="440" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RI6BIQPDjXHRvj0KCU86-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="RI6BIQPDjXHRvj0KCU86-3" target="RI6BIQPDjXHRvj0KCU86-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RI6BIQPDjXHRvj0KCU86-3" value="users&lt;br&gt;rest api" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="320" y="260" width="120" height="60" as="geometry" />
