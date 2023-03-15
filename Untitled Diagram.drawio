@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-15T09:09:59.681Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="vxnbR9ZfO_g5rJPhf5Kp" version="21.0.6" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-03-15T09:10:44.695Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Q7JqHgbrqeoWn-F3XflL" version="21.0.6" type="github" pages="6">
   <diagram name="Page-1" id="ZtmYhF9qjIUgPPEs3o9M">
     <mxGraphModel dx="978" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -556,6 +556,9 @@
         <mxCell id="QylmEdDwLMVgvY8mHKdE-3" value="FUNCTIONAL WAY" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="371" y="161" width="180" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="QylmEdDwLMVgvY8mHKdE-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="QylmEdDwLMVgvY8mHKdE-4" target="QylmEdDwLMVgvY8mHKdE-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QylmEdDwLMVgvY8mHKdE-4" value="OOPS WAY" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="670" y="161" width="180" height="60" as="geometry" />
         </mxCell>
@@ -564,6 +567,9 @@
         </mxCell>
         <mxCell id="QylmEdDwLMVgvY8mHKdE-7" value="void acceptNumber(){&lt;br&gt;//todo: logic&lt;br&gt;}&lt;br&gt;&lt;br&gt;void add(){};&lt;br&gt;&lt;br&gt;void subtract(){&lt;br&gt;}&lt;br&gt;&lt;br&gt;void multiply(){&lt;br&gt;&lt;br&gt;}&lt;br&gt;&lt;br&gt;invoke.acceptNumber();&lt;br&gt;invoke add();&lt;br&gt;invoke.multiply();" style="whiteSpace=wrap;html=1;fontSize=20;fontFamily=Architects Daughter;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;align=left;" vertex="1" parent="1">
           <mxGeometry x="346.5" y="301" width="229" height="409" as="geometry" />
+        </mxCell>
+        <mxCell id="QylmEdDwLMVgvY8mHKdE-9" value="define program using classes and objects" style="whiteSpace=wrap;html=1;fontSize=20;fontFamily=Architects Daughter;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="640" y="310" width="240" height="69" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
