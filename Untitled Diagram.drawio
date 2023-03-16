@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-16T09:19:43.332Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="jyOjg6v_sTQo6heiBCOq" version="21.0.6" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-03-16T09:29:09.833Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="qtHzc2m6MFfJmcpuB1zk" version="21.0.6" type="github" pages="7">
   <diagram name="Page-1" id="ZtmYhF9qjIUgPPEs3o9M">
     <mxGraphModel dx="880" dy="444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -669,6 +669,9 @@
         <mxCell id="mw3b3iAEPUMA6Aiv3kzX-15" value="" style="image;html=1;image=img/lib/clip_art/computers/Laptop_128x128.png;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="258" y="773" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="mw3b3iAEPUMA6Aiv3kzX-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="mw3b3iAEPUMA6Aiv3kzX-16" target="mw3b3iAEPUMA6Aiv3kzX-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mw3b3iAEPUMA6Aiv3kzX-16" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="98" y="843" width="80" height="80" as="geometry" />
         </mxCell>
@@ -677,6 +680,63 @@
         </mxCell>
         <mxCell id="mw3b3iAEPUMA6Aiv3kzX-26" value="192.168.1.10" style="image;html=1;image=img/lib/clip_art/computers/Laptop_128x128.png;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-120" y="764" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mw3b3iAEPUMA6Aiv3kzX-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="mw3b3iAEPUMA6Aiv3kzX-30" target="mw3b3iAEPUMA6Aiv3kzX-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mw3b3iAEPUMA6Aiv3kzX-30" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="760" y="844" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mw3b3iAEPUMA6Aiv3kzX-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="mw3b3iAEPUMA6Aiv3kzX-31" target="mw3b3iAEPUMA6Aiv3kzX-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mw3b3iAEPUMA6Aiv3kzX-31" value="192.168.0.120" style="image;html=1;image=img/lib/clip_art/computers/Laptop_128x128.png;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="640" y="700" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mw3b3iAEPUMA6Aiv3kzX-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="mw3b3iAEPUMA6Aiv3kzX-32" target="mw3b3iAEPUMA6Aiv3kzX-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mw3b3iAEPUMA6Aiv3kzX-32" value="192.168.0.111" style="image;html=1;image=img/lib/clip_art/computers/Laptop_128x128.png;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="670" y="993" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mw3b3iAEPUMA6Aiv3kzX-35" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/switch.svg;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="493.33" y="844" width="76" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="mw3b3iAEPUMA6Aiv3kzX-38" value="214.10.25.40" style="image;html=1;image=img/lib/clip_art/computers/Laptop_128x128.png;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="510.00000000000006" y="1310" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mw3b3iAEPUMA6Aiv3kzX-40" value="Internet &lt;br&gt;Service Provider (ISP)" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/web_server.svg;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="497.33" y="1110" width="72" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="mw3b3iAEPUMA6Aiv3kzX-41" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="1370" width="610" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="mw3b3iAEPUMA6Aiv3kzX-42" value="BCS" style="image;html=1;image=img/lib/clip_art/networking/Print_Server_Wireless_128x128.png;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="1380" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mw3b3iAEPUMA6Aiv3kzX-43" value="BCS" style="image;html=1;image=img/lib/clip_art/networking/Print_Server_Wireless_128x128.png;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="1330" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mw3b3iAEPUMA6Aiv3kzX-44" value="BCS" style="image;html=1;image=img/lib/clip_art/networking/Print_Server_Wireless_128x128.png;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1860" y="1360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mw3b3iAEPUMA6Aiv3kzX-45" value="BCS" style="image;html=1;image=img/lib/clip_art/networking/Print_Server_Wireless_128x128.png;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="2020" y="1360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mw3b3iAEPUMA6Aiv3kzX-46" value="BCS" style="image;html=1;image=img/lib/clip_art/networking/Print_Server_Wireless_128x128.png;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1990" y="1480" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mw3b3iAEPUMA6Aiv3kzX-47" value="BCS" style="image;html=1;image=img/lib/clip_art/networking/Print_Server_Wireless_128x128.png;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1870" y="1500" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mw3b3iAEPUMA6Aiv3kzX-48" value="BCS" style="image;html=1;image=img/lib/clip_art/networking/Print_Server_Wireless_128x128.png;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="1480" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mw3b3iAEPUMA6Aiv3kzX-49" value="BCS" style="image;html=1;image=img/lib/clip_art/networking/Print_Server_Wireless_128x128.png;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="1500" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mw3b3iAEPUMA6Aiv3kzX-50" value="91.55&amp;nbsp;" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="1420" width="50.4" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
