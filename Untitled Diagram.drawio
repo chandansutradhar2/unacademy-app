@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-16T10:54:02.203Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="nmh9Bln5Y_8ZwRJSqwd_" version="21.0.6" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-03-16T10:54:54.952Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="tm8oGlQXa0xjXJA25mw-" version="21.0.6" type="github" pages="7">
   <diagram name="Page-1" id="ZtmYhF9qjIUgPPEs3o9M">
     <mxGraphModel dx="880" dy="444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -588,6 +588,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="mw3b3iAEPUMA6Aiv3kzX-83" value="AWS" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="158" y="1530" width="362" height="510" as="geometry" />
+        </mxCell>
         <mxCell id="mw3b3iAEPUMA6Aiv3kzX-1" value="&lt;h1&gt;Basic of networking&lt;/h1&gt;&lt;div&gt;networking is a &lt;b&gt;process of communication&lt;/b&gt; between &lt;b&gt;two&lt;/b&gt; or more devices&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
           <mxGeometry x="71" y="30" width="659" height="160" as="geometry" />
         </mxCell>
