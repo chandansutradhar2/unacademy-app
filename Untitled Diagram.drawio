@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-17T08:35:44.096Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="3hVHhC6YAzfeQZ8_fRoa" version="21.0.6" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-03-17T08:38:18.979Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="HeItALdBdA-YOmMunj4D" version="21.0.6" type="github" pages="8">
   <diagram name="Page-1" id="ZtmYhF9qjIUgPPEs3o9M">
     <mxGraphModel dx="880" dy="444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -841,12 +841,24 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3uPyJ-0CuhmW3w5WMf_M" name="api_notes">
-    <mxGraphModel dx="880" dy="444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="587" dy="296" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="vjCakqtNO0TvSNgYCe89-1" value="&lt;h1&gt;Introduction to API&#39;s&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
           <mxGeometry x="160" y="30" width="450" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="vjCakqtNO0TvSNgYCe89-2" value="API stand for &lt;b&gt;A&lt;/b&gt;pplication &lt;b&gt;P&lt;/b&gt;rogramming &lt;b&gt;I&lt;/b&gt;nterface" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="160" y="120" width="590" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vjCakqtNO0TvSNgYCe89-3" value="enables a developer to to expose his code functionality for the others to consume" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="160" y="152" width="480" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vjCakqtNO0TvSNgYCe89-4" value="API Developer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="170" y="240" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vjCakqtNO0TvSNgYCe89-5" value="API COnsumer (Developer)" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="520" y="240" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
