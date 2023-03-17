@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-17T08:38:59.168Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="serJzm-KwBrBZJ23MRIC" version="21.0.6" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-03-17T08:41:47.685Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="8NvjvkujYpzWrzw1B5SB" version="21.0.6" type="github" pages="8">
   <diagram name="Page-1" id="ZtmYhF9qjIUgPPEs3o9M">
     <mxGraphModel dx="880" dy="444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -862,6 +862,9 @@
         </mxCell>
         <mxCell id="vjCakqtNO0TvSNgYCe89-6" value="develop a stududent portal" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
           <mxGeometry x="410" y="350" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vjCakqtNO0TvSNgYCe89-7" value="&lt;b&gt;login, facebookLogin&lt;/b&gt;,&lt;b&gt;gooleLogin&lt;/b&gt; viewCourse, addCourse,playCourse, attendOnlineClassroom" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="440" y="390" width="230" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
