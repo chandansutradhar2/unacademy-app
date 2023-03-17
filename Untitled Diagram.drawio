@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-17T08:57:44.820Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="2oXOyWe7YmIHlh3Rrmtx" version="21.0.6" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-03-17T08:59:14.614Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="k7bHXKEGLFxMhfE_AvLH" version="21.0.6" type="github" pages="8">
   <diagram name="Page-1" id="ZtmYhF9qjIUgPPEs3o9M">
     <mxGraphModel dx="880" dy="444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -854,6 +854,9 @@
         <mxCell id="vjCakqtNO0TvSNgYCe89-3" value="enables a developer to to expose his code functionality for the others to consume" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
           <mxGeometry x="160" y="152" width="480" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="vjCakqtNO0TvSNgYCe89-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.308;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="vjCakqtNO0TvSNgYCe89-4" target="vjCakqtNO0TvSNgYCe89-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vjCakqtNO0TvSNgYCe89-4" value="API Developer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="170" y="240" width="30" height="60" as="geometry" />
         </mxCell>
@@ -862,6 +865,13 @@
         </mxCell>
         <mxCell id="vjCakqtNO0TvSNgYCe89-6" value="develop a stududent portal" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
           <mxGeometry x="410" y="350" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vjCakqtNO0TvSNgYCe89-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="vjCakqtNO0TvSNgYCe89-7" target="vjCakqtNO0TvSNgYCe89-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="565" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="vjCakqtNO0TvSNgYCe89-7" value="&lt;b&gt;login, facebookLogin&lt;/b&gt;,&lt;b&gt;gooleLogin&lt;/b&gt; viewCourse, addCourse,playCourse, attendOnlineClassroom" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="440" y="390" width="230" height="100" as="geometry" />
@@ -914,6 +924,12 @@
         </mxCell>
         <mxCell id="vjCakqtNO0TvSNgYCe89-22" value="exposing API (SDK, ednpoint (REST API) )" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="80" y="790" width="800" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vjCakqtNO0TvSNgYCe89-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="vjCakqtNO0TvSNgYCe89-23" target="vjCakqtNO0TvSNgYCe89-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vjCakqtNO0TvSNgYCe89-23" value="own APP" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="350" y="620" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
