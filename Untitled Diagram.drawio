@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-17T09:08:41.833Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="s09Z4L933lROeo1ekiF5" version="21.0.6" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-03-17T09:10:32.385Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="WTCJMqB8IVf3y7C1MRvE" version="21.0.6" type="github" pages="8">
   <diagram name="Page-1" id="ZtmYhF9qjIUgPPEs3o9M">
     <mxGraphModel dx="880" dy="444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -943,7 +943,7 @@
         <mxCell id="vjCakqtNO0TvSNgYCe89-32" value="generateQR()&lt;br&gt;acceptPayment()&lt;br&gt;makePayment()&lt;br&gt;scan&amp;amp;Pay()" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;labelBackgroundColor=#FFCCFF;labelBorderColor=default;" vertex="1" parent="1">
           <mxGeometry x="170" y="980" width="230" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="vjCakqtNO0TvSNgYCe89-33" value="gpaySDK" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+        <mxCell id="vjCakqtNO0TvSNgYCe89-33" value="gpaySDK (200MB)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
           <mxGeometry x="215" y="1100" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vjCakqtNO0TvSNgYCe89-36" value="gpaySDK.makePayment()" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
