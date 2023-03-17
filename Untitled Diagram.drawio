@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-17T08:41:47.685Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="8NvjvkujYpzWrzw1B5SB" version="21.0.6" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-03-17T08:49:51.829Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="fZdn-hXmXmwSPZ_0H2_X" version="21.0.6" type="github" pages="8">
   <diagram name="Page-1" id="ZtmYhF9qjIUgPPEs3o9M">
     <mxGraphModel dx="880" dy="444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -841,7 +841,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3uPyJ-0CuhmW3w5WMf_M" name="api_notes">
-    <mxGraphModel dx="587" dy="296" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="704" dy="355" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -863,8 +863,39 @@
         <mxCell id="vjCakqtNO0TvSNgYCe89-6" value="develop a stududent portal" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
           <mxGeometry x="410" y="350" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vjCakqtNO0TvSNgYCe89-7" value="&lt;b&gt;login, facebookLogin&lt;/b&gt;,&lt;b&gt;gooleLogin&lt;/b&gt; viewCourse, addCourse,playCourse, attendOnlineClassroom" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="vjCakqtNO0TvSNgYCe89-7" value="&lt;b&gt;login, facebookLogin&lt;/b&gt;,&lt;b&gt;gooleLogin&lt;/b&gt; viewCourse, addCourse,playCourse, attendOnlineClassroom" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="440" y="390" width="230" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="vjCakqtNO0TvSNgYCe89-8" value="expose Program&lt;br&gt;(facebook)&lt;br&gt;FacebookLogin&lt;br&gt;&lt;pre style=&quot;padding: 12px; border: 1px solid rgb(141, 148, 158); background-color: rgb(28, 30, 33); border-radius: 3px; color: rgb(255, 255, 255); font-family: Menlo, Monaco, &amp;quot;Andale Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 20px; margin-top: 24px; margin-bottom: 24px; overflow: auto; overflow-wrap: normal; direction: ltr; text-align: start;&quot; class=&quot;_5s-8 prettyprint lang-code prettyprinted&quot;&gt;FB&lt;span class=&quot;pun&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;pln&quot;&gt;getLoginStatus&lt;/span&gt;&lt;span class=&quot;pun&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: rgb(113, 168, 48);&quot; class=&quot;kwd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;pun&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;pln&quot;&gt;response&lt;/span&gt;&lt;span class=&quot;pun&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;pln&quot;&gt; &lt;/span&gt;&lt;span class=&quot;pun&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;pln&quot;&gt;&lt;br/&gt;    statusChangeCallback&lt;/span&gt;&lt;span class=&quot;pun&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;pln&quot;&gt;response&lt;/span&gt;&lt;span class=&quot;pun&quot;&gt;);&lt;/span&gt;&lt;span class=&quot;pln&quot;&gt;&lt;br/&gt;&lt;/span&gt;&lt;span class=&quot;pun&quot;&gt;});&lt;/span&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="90" y="400" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vjCakqtNO0TvSNgYCe89-9" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="720" y="340" width="120" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="vjCakqtNO0TvSNgYCe89-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="vjCakqtNO0TvSNgYCe89-10" target="vjCakqtNO0TvSNgYCe89-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="781" y="560" />
+              <mxPoint x="526" y="560" />
+              <mxPoint x="526" y="490" />
+              <mxPoint x="205" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vjCakqtNO0TvSNgYCe89-10" value="Login" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="731" y="450" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vjCakqtNO0TvSNgYCe89-11" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.facebook;fillColor=#6294E4;gradientColor=#1A2665;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="725" y="446.9" width="30" height="33.1" as="geometry" />
+        </mxCell>
+        <mxCell id="vjCakqtNO0TvSNgYCe89-12" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="860" y="335" width="130" height="205" as="geometry" />
+        </mxCell>
+        <mxCell id="vjCakqtNO0TvSNgYCe89-13" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;student app want to access your facebook profile&lt;br&gt;yes no&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="866" y="413.45" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="vjCakqtNO0TvSNgYCe89-14" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-128.png;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="870" y="346" width="38" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
