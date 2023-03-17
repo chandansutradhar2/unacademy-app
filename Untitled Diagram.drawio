@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-17T10:02:52.135Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Hhdy9VD95jRbvxBn8h_A" version="21.0.6" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-03-17T10:40:17.700Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="hzosqPsTthsEIR82RewH" version="21.0.6" type="github" pages="8">
   <diagram name="Page-1" id="ZtmYhF9qjIUgPPEs3o9M">
     <mxGraphModel dx="1600" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -859,7 +859,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3uPyJ-0CuhmW3w5WMf_M" name="api_notes">
-    <mxGraphModel dx="1776" dy="467" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1950" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -989,7 +989,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tQULwjX5t86iHFK_ow8T-4" value="Http Response&lt;br&gt;(XML/JSON)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontFamily=Architects Daughter;" vertex="1" connectable="0" parent="tQULwjX5t86iHFK_ow8T-3">
+        <mxCell id="tQULwjX5t86iHFK_ow8T-4" value="&amp;lt;HEADER&amp;gt;&lt;br&gt;Http Response&lt;br&gt;(XML/JSON)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontFamily=Architects Daughter;" vertex="1" connectable="0" parent="tQULwjX5t86iHFK_ow8T-3">
           <mxGeometry x="-0.3036" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -1000,7 +1000,7 @@
         <mxCell id="vjCakqtNO0TvSNgYCe89-43" value="REST SERVER" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="655" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tQULwjX5t86iHFK_ow8T-2" value="HTTP Request" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="tQULwjX5t86iHFK_ow8T-1">
+        <mxCell id="tQULwjX5t86iHFK_ow8T-2" value="`HEADER" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="tQULwjX5t86iHFK_ow8T-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="660" y="1070" as="targetPoint" />
           </mxGeometry>
